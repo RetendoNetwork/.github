@@ -1,6 +1,11 @@
 # Retendo Network
-- Retendo Network is a recreation of online service created by Lurio28, Zac_Xgamer, cedkeChat.
+- Retendo Network is a recreation of online service for Nintendo Wii U, 3DS and soon Switch.
 - This project is open source (If you want see the source code of the Miiverse recreation of Retendo Network, you can go [here](https://github.com/InnoverseTeam)).
+
+# Teams
+- Lurio28 (Project Owner)
+- Zac_Xgamer (Website developement and 3DS Games Servers helper)
+- cedkeChat (Miiverse Developement and NEX Server Developement)
 
 # License
 - This project is licensed under the [GNU Affero General Public License version 3](../LICENSE).
