@@ -6,6 +6,3 @@
 - Lurio28 (Project Owner)
 - Zac_Xgamer (Website developement and 3DS Games Servers helper)
 - cedkeChat (Miiverse Developement and NEX Server Developement)
-
-# License
-- This project is licensed under the [GNU Affero General Public License version 3](../LICENSE).
